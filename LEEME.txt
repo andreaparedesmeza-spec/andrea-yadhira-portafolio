@@ -1,0 +1,16 @@
+PÁGINA PERSONAL - ANDREA YADHIRA PAREDES MEZA
+
+Archivos (todos van juntos, en la raíz, sin subcarpetas):
+- index.html    La página completa (HTML, CSS y JavaScript)
+- sitemap.xml   Mapa del sitio para Google
+- robots.txt    Permite que Google rastree la página
+- favicon.svg   Ícono de la pestaña
+- og-image.png  Imagen al compartir el enlace
+
+ANTES DE PUBLICAR FINALMENTE:
+Reemplaza https://TU-SITIO.netlify.app por tu enlace real
+(por ejemplo https://andreaparedesmeza.vercel.app) en:
+index.html (aparece varias veces), sitemap.xml y robots.txt.
+
+Tu foto: sube un archivo foto.jpg junto a index.html y cambia
+src="" por src="foto.jpg" en <img id="foto">.
